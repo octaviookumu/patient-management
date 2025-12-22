@@ -17,10 +17,3 @@
     </modules>
 
 </project>
-
-
-<!--<parent>-->
-<!--<groupId>com.pm</groupId>-->
-<!--<artifactId>patient-management</artifactId>-->
-<!--<version>0.0.1-SNAPSHOT</version>-->
-<!--</parent>-->
